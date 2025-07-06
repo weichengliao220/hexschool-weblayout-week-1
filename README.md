@@ -16,12 +16,13 @@
 
 ## 專案結構
 ```
-dist/
 ├── icons/
 │   └── arrow-icon.svg
 ├── index.html
 ├── style.css
-└── reset.css
+├── reset.css
+├── README.md
+└── LICENSE.txt
 ```
 
 ## 線上展示
