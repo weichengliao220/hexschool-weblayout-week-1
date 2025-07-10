@@ -111,9 +111,9 @@ body {
   border-left: 3px solid #DEE2E6;
 }
 
-.story-box .vector {
-  position: relative; /* positioned relative to its original place (default: static) */
-  top: 5px;
+.story-box .bi-arrow-up-right {
+  color: #57A203;
+  font-size: 20px;
 }
 
 .story-box li {
